@@ -1,3 +1,5 @@
 ## Site criado com base em um protótipo no formato de imagem. 
 
-O protótipo pode ser encontrado junto aos arquivos no repositório na pasta "img".
+Essa á uma atividade realizada no meu curso superior de TSI (Tecnologia em Sistemas Para Internet) na UTFPR. 
+
+O protótipo pode ser encontrado junto aos arquivos do repositório na pasta "img".
